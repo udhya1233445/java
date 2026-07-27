@@ -111,7 +111,7 @@ java Neon_number
 
 ## 👨‍💻 Author
 
-### Vengatesh R
+### UDHAYA
 
 - B.E CSE Student
 - Java Developer Enthusiast
