@@ -106,6 +106,6 @@ By working through these programs, you will learn:
 
 ## Author
 
-**Vengatesh**
+**UDHAYA**
 
 Happy Coding! 🚀
