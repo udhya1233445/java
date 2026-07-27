@@ -190,7 +190,7 @@ By completing these programs, you will learn:
 
 ## Author
 
-**Vengatesh R**
+**UDHAYA**
 - B.Tech CSE Student
 - Java & Problem Solving Enthusiast
 
