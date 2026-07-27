@@ -124,7 +124,7 @@ By completing these programs, you will:
 
 ## Author
 
-**Vengatesh**
+**UDHAYA**
 
 > "Practice makes progress. Keep coding and keep learning!"
 
